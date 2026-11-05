@@ -13,3 +13,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     dplyr
+URL: https://github.com/rowanharrisstoertz/powers
+BugReports: https://github.com/rowanharrisstoertz/powers/issues
